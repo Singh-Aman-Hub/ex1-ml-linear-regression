@@ -8,10 +8,11 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1. 
-2. 
-3. 
-4. 
+1. Import and prepare the data:
+Load the dataset, and split it into independent (X) and dependent (y) variables.
+2. Use train_test_split to divide the dataset into training and testing sets.
+3. Create a LinearRegression object and fit it with training data (x_train, y_train).
+4. Predict using the model on x_test, then calculate errors (MSE, MAE, RMSE) to evaluate performance.
 
 ## Program:
 ```
@@ -58,6 +59,7 @@ print("Actual values: ",y_test)
 ```
 ```
 #Plotting the Graphs
+
 plt.scatter(x_train,y_train,color="red",label="Actual Scores",marker="*")
 plt.plot(x_train,reg.predict(x_train),color="black",label="Best Fitted Line")
 plt.title("Hourses vs Scores - Training data")
