@@ -94,16 +94,16 @@ print("Root Mean Sqaure error (mse) = ",rmse)
 ## Output:
 
 <img width="357" alt="Screenshot 2025-04-20 at 7 28 49 PM" src="https://github.com/user-attachments/assets/3e63cf49-553c-4b7c-bb64-07f4dc0c826d" /> <img width="357" alt="Screenshot 2025-04-20 at 7 29 04 PM" src="https://github.com/user-attachments/assets/bdc5f1e1-2f8a-4b18-9679-486a310ff490" />
-#
+##
 
 <img width="641" alt="Screenshot 2025-04-20 at 7 29 25 PM" src="https://github.com/user-attachments/assets/2660cca1-ee93-4a3d-89c9-7baa9a9c1aa0" />
-#
+##
 
 <img width="598" alt="Screenshot 2025-04-20 at 7 29 39 PM" src="https://github.com/user-attachments/assets/86c5cdc6-b932-4494-b5f3-9f4ddd344583" />
-#
+##
 
 <img width="600" alt="Screenshot 2025-04-20 at 7 29 48 PM" src="https://github.com/user-attachments/assets/15d1112f-9ff6-4362-a114-a1de9a53a209" />
-#
+##
 
 <img width="397" alt="Screenshot 2025-04-20 at 7 30 15 PM" src="https://github.com/user-attachments/assets/f4bc9951-f67b-4f0a-bebf-a1c858f269fd" />
 
